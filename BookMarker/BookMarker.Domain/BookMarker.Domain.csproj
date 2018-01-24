@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookMarker.Core.Infra\BookMarker.Core.Infra.csproj" />
+    <ProjectReference Include="..\Core.Domain\BookMarker.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

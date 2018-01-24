@@ -1,0 +1,40 @@
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Presentation.dll
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Presentation.pdb
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Domain.dll
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Core.dll
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Domain.pdb
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Core.xml
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.csprojResolveAssemblyReference.cache
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.csproj.CoreCompileInputs.cache
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.MainPage.xaml.g.cs
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.App.xaml.g.cs
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.dll
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Presentation.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Presentation.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Core.Domain.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Domain.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Core.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Core.Infra.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Domain.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Core.Domain.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Core.xml
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\bin\Debug\BookMarker.Core.Infra.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.csprojResolveAssemblyReference.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.csproj.CoreCompileInputs.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.MainPage.xaml.g.cs
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.App.xaml.g.cs
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Presentation\BookMarker.Presentation\obj\Debug\BookMarker.Presentation.pdb

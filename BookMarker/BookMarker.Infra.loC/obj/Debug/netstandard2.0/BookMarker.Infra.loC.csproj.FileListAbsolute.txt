@@ -1,0 +1,11 @@
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\bin\Debug\netstandard2.0\BookMarker.Infra.loC.deps.json
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\bin\Debug\netstandard2.0\BookMarker.Infra.loC.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\bin\Debug\netstandard2.0\BookMarker.Infra.loC.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\bin\Debug\netstandard2.0\BookMarker.Core.Domain.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\bin\Debug\netstandard2.0\BookMarker.Core.Domain.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\obj\Debug\netstandard2.0\BookMarker.Infra.loC.csprojResolveAssemblyReference.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\obj\Debug\netstandard2.0\BookMarker.Infra.loC.csproj.CoreCompileInputs.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\obj\Debug\netstandard2.0\BookMarker.Infra.loC.AssemblyInfoInputs.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\obj\Debug\netstandard2.0\BookMarker.Infra.loC.AssemblyInfo.cs
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\obj\Debug\netstandard2.0\BookMarker.Infra.loC.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Infra.loC\obj\Debug\netstandard2.0\BookMarker.Infra.loC.pdb

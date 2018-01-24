@@ -1,0 +1,9 @@
+F:\Pessoal\AppBookMarker\BookMarker\Core.Domain\bin\Debug\netstandard1.1\BookMarker.Core.Domain.deps.json
+F:\Pessoal\AppBookMarker\BookMarker\Core.Domain\bin\Debug\netstandard1.1\BookMarker.Core.Domain.dll
+F:\Pessoal\AppBookMarker\BookMarker\Core.Domain\bin\Debug\netstandard1.1\BookMarker.Core.Domain.pdb
+F:\Pessoal\AppBookMarker\BookMarker\Core.Domain\obj\Debug\netstandard1.1\BookMarker.Core.Domain.csprojResolveAssemblyReference.cache
+F:\Pessoal\AppBookMarker\BookMarker\Core.Domain\obj\Debug\netstandard1.1\BookMarker.Core.Domain.csproj.CoreCompileInputs.cache
+F:\Pessoal\AppBookMarker\BookMarker\Core.Domain\obj\Debug\netstandard1.1\BookMarker.Core.Domain.AssemblyInfoInputs.cache
+F:\Pessoal\AppBookMarker\BookMarker\Core.Domain\obj\Debug\netstandard1.1\BookMarker.Core.Domain.AssemblyInfo.cs
+F:\Pessoal\AppBookMarker\BookMarker\Core.Domain\obj\Debug\netstandard1.1\BookMarker.Core.Domain.dll
+F:\Pessoal\AppBookMarker\BookMarker\Core.Domain\obj\Debug\netstandard1.1\BookMarker.Core.Domain.pdb

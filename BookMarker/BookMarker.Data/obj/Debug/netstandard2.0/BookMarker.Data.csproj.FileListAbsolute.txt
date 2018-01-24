@@ -1,0 +1,10 @@
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Data\bin\Debug\netstandard2.0\BookMarker.Data.deps.json
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Data\bin\Debug\netstandard2.0\BookMarker.Data.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Data\bin\Debug\netstandard2.0\BookMarker.Core.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Data\bin\Debug\netstandard2.0\BookMarker.Domain.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Data\bin\Debug\netstandard2.0\BookMarker.Domain.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Data\bin\Debug\netstandard2.0\BookMarker.Core.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Data\obj\Debug\netstandard2.0\BookMarker.Data.csprojResolveAssemblyReference.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Data\obj\Debug\netstandard2.0\BookMarker.Data.csproj.CoreCompileInputs.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Data\obj\Debug\netstandard2.0\BookMarker.Data.AssemblyInfoInputs.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Data\obj\Debug\netstandard2.0\BookMarker.Data.AssemblyInfo.cs

@@ -1,0 +1,17 @@
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Domain\bin\Release\netstandard1.1\BookMarker.Domain.deps.json
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Domain\bin\Release\netstandard1.1\BookMarker.Domain.dll
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Domain\bin\Release\netstandard1.1\BookMarker.Domain.pdb
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.csproj.CoreCompileInputs.cache
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.AssemblyInfoInputs.cache
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.AssemblyInfo.cs
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.dll
+F:\Pessoal\Desenvolvimento\Xamarin\Meus Aplicativos\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Domain\bin\Release\netstandard1.1\BookMarker.Domain.deps.json
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Domain\bin\Release\netstandard1.1\BookMarker.Domain.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Domain\bin\Release\netstandard1.1\BookMarker.Domain.pdb
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.csprojResolveAssemblyReference.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.csproj.CoreCompileInputs.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.AssemblyInfoInputs.cache
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.AssemblyInfo.cs
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.dll
+F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Domain\obj\Release\netstandard1.1\BookMarker.Domain.pdb
